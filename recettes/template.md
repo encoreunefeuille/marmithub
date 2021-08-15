@@ -10,7 +10,7 @@
 
 ### Recette
 
-- Copier coller le fichier de template dans le dossier `salees` ou `sucrees`
+- Copier-coller le fichier de template dans le dossier `salees` ou `sucrees`
 - Editer la liste des ingrédients
 - Ajouter les différentes étapes de la recette
 
