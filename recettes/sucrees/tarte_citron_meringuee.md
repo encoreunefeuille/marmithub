@@ -38,7 +38,7 @@
 - Battre les 4 blancs d'oeufs restants en neige
 - Ajouter le sucre glace petit à petit en continuant de battre
 - Déposer la meringue sur la tarte à l'aide d'une poche à douille
-- Cuisson 10min à 180°C. Il est possible d'ajouter 2-3 minutes en mode grill pour faire brunir la meringue 
+- Cuisson 10min à 180°C. Il est possible d'ajouter 2-3min en mode grill pour faire brunir la meringue 
 - Laisser la tarte dans le four jusqu'à 40min pour avoir une meringue bien croquante
 
 ---
