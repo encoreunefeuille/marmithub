@@ -21,7 +21,7 @@
   - 3e pli : 6 plis sur plan humidifié. Repos 1h (recouvert d'un torchon)
   - "pre-shape" : 6 plis sur plan fariné. Repos 1h (recouvert d'un torchon)
   - "final shape" : 6 plis sur plan fariné. Mettre dans un panier fariné au frigo sans recouvrir
-- Le jour suivant, cuire 15min au four à 230°C avec de l'eau bouillante au fond, puis baisser à 190°C pour 20-25 min
+- Le jour suivant, faire une rainure sur le pain à l'aide d'un couteau fin. Cuire 15min au four à 230°C avec de l'eau bouillante au fond, puis baisser à 190°C pour 20-25 min
 
 ---
 
