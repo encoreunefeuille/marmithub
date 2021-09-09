@@ -3,6 +3,7 @@
 - Recettes salées
   - [Levain](./recettes/salees/levain.md)
   - [Pain au levain](./recettes/salees/pain_au_levain.md)
+  - [Poivrons marinés](./recettes/salees/poivrons_marines.md)
 - Recettes sucrées
   - [Fondant au chocolat](./recettes/sucrees/fondant_au_chocolat.md)
   - [Galette des rois à la frangipane](./recettes/sucrees/galette_des_rois.md)
