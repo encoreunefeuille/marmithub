@@ -1,6 +1,7 @@
 # marmithub
 
 - Recettes salées
+  - [Blanquette de veau](./recettes/salees/blanquette.md)
   - [Lasagnes bolognaise](./recettes/salees/lasagnes_bolognaise.md)
   - [Levain](./recettes/salees/levain.md)
   - [Pain au levain](./recettes/salees/pain_au_levain.md)
