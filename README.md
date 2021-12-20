@@ -9,6 +9,7 @@
   - [Soupe de chou fleur rôti](./recettes/salees/soupe_chou_fleur.md)
 - Recettes sucrées
   - [Banoffee](./recettes/sucrees/banoffee.md)
+  - [Cake à l'orange](./recettes/sucrees/cake_orange.md)
   - [Crème fouettée](./recettes/sucrees/creme_fouettee.md)
   - [Fondant au chocolat](./recettes/sucrees/fondant_au_chocolat.md)
   - [Galette des rois à la frangipane](./recettes/sucrees/galette_des_rois.md)
