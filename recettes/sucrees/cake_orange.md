@@ -26,7 +26,7 @@
 - Mélanger zeste d'orange et sucre jusqu'à ce que le sucre soit parfumé
 - Incorporer le beurre pommade au sucre, puis les oeufs un par un
 - Ajouter la farine mélangée avec la levure puis le jus d'orange (garder 2 cuillères à soupe pour le glaçage)
-- Four 40 minutes à 170°C
+- Four 40min à 170°C
 
 ###### Glaçage
 
