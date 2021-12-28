@@ -24,7 +24,7 @@
   - Dans l'autre, ajouter le chocolat fondu
 - Monter les blancs en neige et les incorporer équitablement aux deux préparations
 - Déposer les préparations dans le moule en alternant vanille / chocolat
-- Four 35 min à 180°C
+- Four 35min à 180°C
 
 ---
 
