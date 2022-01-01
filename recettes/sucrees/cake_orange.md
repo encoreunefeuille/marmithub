@@ -15,7 +15,7 @@
 
 ###### Glaçage
 
-- [ ] 90g sucre glace
+- [ ] 70g sucre glace
 
 ---
 
@@ -25,12 +25,12 @@
 
 - Mélanger zeste d'orange et sucre jusqu'à ce que le sucre soit parfumé
 - Incorporer le beurre pommade au sucre, puis les oeufs un par un
-- Ajouter la farine mélangée avec la levure puis le jus d'orange (garder 2 cuillères à soupe pour le glaçage)
+- Ajouter la farine mélangée avec la levure puis le jus d'orange (garder 1 cuillère à soupe pour le glaçage)
 - Four 40min à 170°C
 
 ###### Glaçage
 
-- Mélanger 2 cuillères à soupe de jus d'orange avec le sucre glace
+- Mélanger 1 cuillère à soupe de jus d'orange avec le sucre glace
 - Napper sur le cake refroidi/tiède
 
 ---
