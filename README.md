@@ -3,6 +3,7 @@
 - Recettes salées
   - [Blanquette de veau](./recettes/salees/blanquette.md)
   - [Croque-monsieur](./recettes/salees/croque_monsieur.md)
+  - [Houmous](./recettes/salees/houmous.md)
   - [Lasagnes bolognaise](./recettes/salees/lasagnes_bolognaise.md)
   - [Levain](./recettes/salees/levain.md)
   - [Pain au levain](./recettes/salees/pain_au_levain.md)
