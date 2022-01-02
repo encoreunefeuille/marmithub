@@ -3,6 +3,7 @@
 - Recettes salées
   - [Blanquette de veau](./recettes/salees/blanquette.md)
   - [Croque-monsieur](./recettes/salees/croque_monsieur.md)
+  - [Houmous](./recettes/salees/houmous.md)
   - [Lasagnes bolognaise](./recettes/salees/lasagnes_bolognaise.md)
   - [Levain](./recettes/salees/levain.md)
   - [Pain au levain](./recettes/salees/pain_au_levain.md)
@@ -16,6 +17,7 @@
   - [Galette des rois à la frangipane](./recettes/sucrees/galette_des_rois.md)
   - [Gâteau au yaourt](./recettes/sucrees/gateau_yaourt.md)
   - [Génoise gâteau roulé](./recettes/sucrees/genoise_gateau_roule.md)
+  - [Granola](./recettes/sucrees/granola.md)
   - [Marbré](./recettes/sucrees/marbre.md)
   - [Pâte sablée](./recettes/sucrees/pate_sablee.md)
   - [Tarte au citron menringuée](./recettes/sucrees/tarte_citron_meringuee.md)
