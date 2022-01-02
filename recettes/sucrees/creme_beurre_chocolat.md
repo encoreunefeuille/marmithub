@@ -18,7 +18,7 @@
 - Faire fondre le chocolat et l'ajouter à la préparation
 - Laisser refroidir à température ambiante
 - Battre le beurre ramoli au préalable à la fourchette
-- En continuant de battre le beurre, ajouter cuillère par cuillère la praparation
+- En continuant de battre le beurre, ajouter cuillère par cuillère la préparation
 
 ---
 
