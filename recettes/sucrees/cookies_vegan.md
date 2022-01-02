@@ -11,7 +11,7 @@
 - [ ] 80g noisettes
 - [ ] 30g de fruits secs (abricots secs, cranberries) ou pépites de chocolat 
 - [ ] 4 cuillères à soupe d'huile de colza
-- [ ] 12 cl de lait de riz, avoine ou soja
+- [ ] 12cl de lait de riz, avoine ou soja
 - [ ] 1 pincée de sel
 
 ---
