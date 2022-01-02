@@ -12,6 +12,7 @@
 - Recettes sucrées
   - [Banoffee](./recettes/sucrees/banoffee.md)
   - [Cake à l'orange](./recettes/sucrees/cake_orange.md)
+  - [Cookies vegan](./recettes/sucrees/cookies_vegan.md)
   - [Crème fouettée](./recettes/sucrees/creme_fouettee.md)
   - [Fondant au chocolat](./recettes/sucrees/fondant_au_chocolat.md)
   - [Galette des rois à la frangipane](./recettes/sucrees/galette_des_rois.md)
