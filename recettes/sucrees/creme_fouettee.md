@@ -4,7 +4,7 @@
 
 ### Ingrédients (pour 100g)
 
-- [ ] 20 ml crème liquide 30%
+- [ ] 20cl crème liquide 30%
 - [ ] 13g sucre glace
 - [ ] Extrait de vanille
 
