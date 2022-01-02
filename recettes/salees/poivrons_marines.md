@@ -16,10 +16,10 @@
 
 ###### Poivrons
 
-- Fendre les poivrons en deux, ôtez les pédoncules, les laver et les sécher
-- Déposer les poivrons sur une plaque de cuisson
-- Four 200 °C pendant 35-40min (le plus haut possible dans le four) : il faut que la peau cloque et devienne presque noire
-- Sortir les poivrons du four et les peler, puis les couper en lanières ou en dés.
+- Préchauffer le four en mode grill à température maximale
+- Faire griller les poivrons entiers pendant 20 à 25 minutes en les retournant à deux reprises
+- Débarrasser dans un saladier fermé hermétiquement et laisser tiédir quelques minutes
+- Peler les poivrons et les couper en lanières ou en dés
 
 ###### Assaisonnement
 
