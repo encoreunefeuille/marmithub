@@ -1,6 +1,7 @@
 # marmithub
 
 - Recettes salées
+  - [Béchamel](./recettes/salees/bechamel.md)
   - [Blanquette de veau](./recettes/salees/blanquette.md)
   - [Croque-monsieur](./recettes/salees/croque_monsieur.md)
   - [Houmous](./recettes/salees/houmous.md)
