@@ -6,7 +6,7 @@
 
 - [ ] 50g beurre
 - [ ] 50g farine
-- [ ] 50 cl lait
+- [ ] 50cl lait
 - [ ] muscade
 - [ ] sel
 - [ ] poivre
