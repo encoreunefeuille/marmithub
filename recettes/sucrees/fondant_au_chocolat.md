@@ -14,9 +14,9 @@
 
 ### Recette
 
-- Faire fondre le chocolat avec le beurre au bain-marie
-- Ajouter les oeufs un à un
-- Incorporer la farine puis le sucre
+- Mélanger le sucre et le beurre pomade
+- Ajouter les oeufs et la farine en alternant pour obtenir un mélange homogène
+- Faire fondre le chocolat au bain-marie et l'ajouter à la pâte
 - Four 11min à 200°C
 - Laisser dans le four chaud 3min
 
