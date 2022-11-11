@@ -22,6 +22,7 @@
   - [Gâteau au yaourt](./recettes/sucrees/gateau_yaourt.md)
   - [Génoise gâteau roulé](./recettes/sucrees/genoise_gateau_roule.md)
   - [Granola](./recettes/sucrees/granola.md)
+  - [Madeleines](./recettes/sucrees/madeleines.md)
   - [Marbré](./recettes/sucrees/marbre.md)
   - [Pâte sablée](./recettes/sucrees/pate_sablee.md)
   - [Tarte au citron menringuée](./recettes/sucrees/tarte_citron_meringuee.md)
