@@ -7,7 +7,7 @@
 - [ ] Pâtes à lasagnes
 - [ ] 300g viande hachée
 - [ ] 4 tomates
-- [ ] Sauce béchamel
+- [ ] [Sauce béchamel](./recettes/salees/bechamel.md)
 - [ ] 2 oignons
 - [ ] 1 gousse d'ail
 - [ ] 1 carotte
