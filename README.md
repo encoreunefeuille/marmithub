@@ -10,6 +10,7 @@
   - [Pain au levain](./recettes/salees/pain_au_levain.md)
   - [Pâte à pizza](./recettes/salees/pate_a_pizza.md)
   - [Poivrons marinés](./recettes/salees/poivrons_marines.md)
+  - [Saumon chèvre-miel](./recettes/salees/saumon_chevre_miel.md)
   - [Soupe de chou fleur rôti](./recettes/salees/soupe_chou_fleur.md)
 - Recettes sucrées
   - [Banoffee](./recettes/sucrees/banoffee.md)
