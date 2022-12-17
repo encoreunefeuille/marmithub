@@ -4,6 +4,7 @@
   - [Béchamel](./recettes/salees/bechamel.md)
   - [Blanquette de veau](./recettes/salees/blanquette.md)
   - [Croque-monsieur](./recettes/salees/croque_monsieur.md)
+  - [Gratin quinoa courgette](./recettes/salees/gratin_quinoa_courgette.md)
   - [Houmous](./recettes/salees/houmous.md)
   - [Lasagnes bolognaise](./recettes/salees/lasagnes_bolognaise.md)
   - [Levain](./recettes/salees/levain.md)
