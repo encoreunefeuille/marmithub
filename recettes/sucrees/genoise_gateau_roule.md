@@ -14,9 +14,11 @@
 
 ### Recette
 
+- Battre les blancs en neige et les réserver
 - Battre les jaunes d'oeufs avec le sucre
-- Ajouter les deux farines et la levure préalablement mélangées entre elles
-- Battre les blancs en neige et les incorporer à la préparation
+- Mélanger les deux farines et la levure entre elles
+- Incorporer les farines à la préparation. Si elle devient trop consistante, il est possible d'y ajouter une ou deux cuillères de blanc en neige tout en battant
+- Incorporer les blancs dans la préparation
 - Four 10min à 180°C
 
 ---
