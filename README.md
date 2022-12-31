@@ -31,3 +31,4 @@
   - [Marbré](./recettes/sucrees/marbre.md)
   - [Pâte sablée](./recettes/sucrees/pate_sablee.md)
   - [Tarte au citron menringuée](./recettes/sucrees/tarte_citron_meringuee.md)
+  - [Tarte aux pommes](./recettes/sucrees/tarte_pommes.md)
