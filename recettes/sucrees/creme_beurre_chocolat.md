@@ -14,7 +14,7 @@
 
 ### Recette
 
-- Au bain-marie, battre le jaune d'oeuf, le lait et le sucre jusqu'à 50°C. Une mousse doit apparaitre sur le dessus
+- Au bain-marie, battre le jaune d'oeuf, le lait et le sucre jusqu'à 50°C. Une mousse doit apparaître sur le dessus
 - Faire fondre le chocolat et l'ajouter à la préparation
 - Laisser refroidir à température ambiante
 - Battre le beurre ramoli au préalable à la fourchette
