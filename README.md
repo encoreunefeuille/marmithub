@@ -19,6 +19,7 @@
   - [Cake à l'orange](./recettes/sucrees/cake_orange.md)
   - [Cookies vegan](./recettes/sucrees/cookies_vegan.md)
   - [Crème fouettée](./recettes/sucrees/creme_fouettee.md)
+  - [Crêpes](./recettes/sucrees/crepes.md)
   - [Crème au beurre chocolat](./recettes/sucrees/creme_beurre_chocolat.md)
   - [Fondant au chocolat](./recettes/sucrees/fondant_au_chocolat.md)
   - [Galette des rois à la frangipane](./recettes/sucrees/galette_des_rois.md)
