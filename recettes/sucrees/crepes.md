@@ -6,20 +6,20 @@
 
 - [ ] 250g farine
 - [ ] 500ml lait
-- [ ] 4 oeufs
-- [ ] sel
-- [ ] Arôme (au choix rhum, fleur d'oranger, bière, etc.)
+- [ ] 3 oeufs
+- [ ] 1 c-a-s huilde d'olive
+- [ ] Arôme (au choix bière, fleur d'oranger, rhum, etc.)
 
 ---
 
 ### Recette
 
-- Verser la moitié de la farine dans un saladier et ajouter une pincée de sel
+- Verser la moitié de la farine dans un saladier
 - Incorporer les oeufs un par un en battant la pâte
 - Ajouter alternativement le lait et le reste de la farine en battant énergiquement afin d'éviter la formation de grumeaux
-- Ajouter l'arôme de votre choix
+- Ajouter l'huile d'olive puis l'arôme de votre choix
 - Laisser reposer la pâte une heure au réfrigérateur
 
 ---
 
-31/12/2022
+12/06/2016
