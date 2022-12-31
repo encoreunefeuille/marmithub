@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Check all files has a corresponding link on the README
+      - name: Check all files have a corresponding link on the README.md
         run: |
-          ./scripts/check-links.sh
+          $GITHUB_WORKSPACE/scripts/check-links.sh
