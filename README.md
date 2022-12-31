@@ -29,5 +29,6 @@
   - [Granola](./recettes/sucrees/granola.md)
   - [Madeleines](./recettes/sucrees/madeleines.md)
   - [Marbré](./recettes/sucrees/marbre.md)
+  - [Pâte à choux](./recettes/sucrees/pate_a_choux.md)
   - [Pâte sablée](./recettes/sucrees/pate_sablee.md)
   - [Tarte au citron menringuée](./recettes/sucrees/tarte_citron_meringuee.md)
