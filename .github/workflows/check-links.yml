@@ -1,0 +1,16 @@
+name: check-links
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Check all files has a corresponding link on the README
+        run: |
+          ./scripts/check-links.sh
