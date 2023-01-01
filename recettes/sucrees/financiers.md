@@ -15,7 +15,7 @@
 
 ### Recette
 
-- Faire fondre le beurre à feu vif jusqu'à ce qu'il dégage un parfum de noisette
+- Faire fondre le beurre à feu vif jusqu'à ce qu'il dégage un parfum de noisette et laisser tiédir
 - Mélanger farine, sucre, poudres d'amandes et de noisettes
 - Verser les blancs d'oeufs et bien mélanger
 - Incorporer le beurre tiède et mélanger à la spatule jusqu'à l'obtention d'une pâte lisse
