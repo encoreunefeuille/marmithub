@@ -14,6 +14,7 @@
   - [Poivrons marinés](./recettes/salees/poivrons_marines.md)
   - [Saumon chèvre-miel](./recettes/salees/saumon_chevre_miel.md)
   - [Soupe de chou fleur rôti](./recettes/salees/soupe_chou_fleur.md)
+  - [Tarte à la tomate](./recettes/salees/tarte_tomate.md)
 - Recettes sucrées
   - [Banoffee](./recettes/sucrees/banoffee.md)
   - [Cake à l'orange](./recettes/sucrees/cake_orange.md)
