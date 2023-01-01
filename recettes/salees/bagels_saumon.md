@@ -6,7 +6,7 @@
 
 - [ ] pain à bagels
 - [ ] 2 tranches de saumon fumé
-- [ ] 5 c-a-s de Philadelphia (ou cream cheese)
+- [ ] 5 c-a-s de cream cheese (type Philadelphia)
 - [ ] 1 c-a-s de lait
 - [ ] herbes fraîches (Aneth, Persil)
 - [ ] roquette
