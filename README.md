@@ -17,6 +17,7 @@
 - Recettes sucrées
   - [Banoffee](./recettes/sucrees/banoffee.md)
   - [Cake à l'orange](./recettes/sucrees/cake_orange.md)
+  - [Cannelés](./recettes/sucrees/canneles.md)
   - [Cookies vegan](./recettes/sucrees/cookies_vegan.md)
   - [Crème fouettée](./recettes/sucrees/creme_fouettee.md)
   - [Crêpes](./recettes/sucrees/crepes.md)
@@ -29,6 +30,9 @@
   - [Granola](./recettes/sucrees/granola.md)
   - [Madeleines](./recettes/sucrees/madeleines.md)
   - [Marbré](./recettes/sucrees/marbre.md)
+  - [Muffins aux pépites de chocolat](./recettes/sucrees/muffins_chocolat.md)
   - [Pâte à choux](./recettes/sucrees/pate_a_choux.md)
+  - [Pâte brisée](./recettes/sucrees/pate_brisee.md)
   - [Pâte sablée](./recettes/sucrees/pate_sablee.md)
   - [Tarte au citron menringuée](./recettes/sucrees/tarte_citron_meringuee.md)
+  - [Tarte aux pommes](./recettes/sucrees/tarte_pommes.md)
