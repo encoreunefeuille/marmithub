@@ -5,7 +5,7 @@
 ### Ingrédients
 
 - [ ] 300g riz rond
-- [ ] 400g betteraves
+- [ ] 400g betteraves cuites
 - [ ] 1 oignon
 - [ ] 1 gousse d'ail
 - [ ] 1L bouillon de légumes
