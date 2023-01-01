@@ -29,6 +29,7 @@
   - [Tarte aux poireaux](./recettes/salees/tarte_poireaux.md)
   - [Tarte courgettes-feta](./recettes/salees/tarte_courgettes_feta.md)
 - Recettes sucrées
+  - [Banana cake](./recettes/sucrees/banana_cake.md)
   - [Banana muffins](./recettes/sucrees/banana_muffins.md)
   - [Banoffee](./recettes/sucrees/banoffee.md)
   - [Cake à l'orange](./recettes/sucrees/cake_orange.md)
