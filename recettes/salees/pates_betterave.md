@@ -15,7 +15,7 @@
 
 ### Recette
 
-- Faire cuire les pates dans un grand volume d'eau salée
+- Faire cuire les pâtes dans un grand volume d'eau salée
 - En parallèle, mixer dans un robot les betteraves et le cream cheese. Saler et poivrer à volonté
 - Mélanger les pâtes avec la sauce et servir accompagné de parmesan
 
