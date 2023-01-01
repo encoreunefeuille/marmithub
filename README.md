@@ -16,6 +16,7 @@
   - [Pain au levain](./recettes/salees/pain_au_levain.md)
   - [Pâte à pizza](./recettes/salees/pate_a_pizza.md)
   - [Pâte brisée](./recettes/salees/pate_brisee.md)
+  - [Pâtes à la betterave](./recettes/salees/pates_betterave.md)
   - [Poivrons marinés](./recettes/salees/poivrons_marines.md)
   - [Risotto aux champignons](./recettes/salees/risotto_champignons.md)
   - [Saumon chèvre-miel](./recettes/salees/saumon_chevre_miel.md)
