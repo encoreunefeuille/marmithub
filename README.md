@@ -9,6 +9,7 @@
   - [Gratin quinoa courgette](./recettes/salees/gratin_quinoa_courgette.md)
   - [Houmous](./recettes/salees/houmous.md)
   - [Lasagnes bolognaise](./recettes/salees/lasagnes_bolognaise.md)
+  - [Lasagnes au saumon](./recettes/salees/lasagnes_saumon.md)
   - [Levain](./recettes/salees/levain.md)
   - [Pain au levain](./recettes/salees/pain_au_levain.md)
   - [Pâte à pizza](./recettes/salees/pate_a_pizza.md)
