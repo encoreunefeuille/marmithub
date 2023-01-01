@@ -37,6 +37,7 @@
   - [Crêpes](./recettes/sucrees/crepes.md)
   - [Crème au beurre chocolat](./recettes/sucrees/creme_beurre_chocolat.md)
   - [Crème au beurre chocolat-café](./recettes/sucrees/creme_beurre_chocolat_cafe.md)
+  - [Crumble aux pommes](./recettes/sucrees/crumble_pommes.md)
   - [Fondant au chocolat](./recettes/sucrees/fondant_au_chocolat.md)
   - [Galette des rois à la frangipane](./recettes/sucrees/galette_des_rois.md)
   - [Gâteau au yaourt](./recettes/sucrees/gateau_yaourt.md)
