@@ -30,6 +30,7 @@
   - [Granola](./recettes/sucrees/granola.md)
   - [Madeleines](./recettes/sucrees/madeleines.md)
   - [Marbré](./recettes/sucrees/marbre.md)
+  - [Muffins aux pépites de chocolat](./recettes/sucrees/muffins_chocolat.md)
   - [Pâte brisée](./recettes/sucrees/pate_brisee.md)
   - [Pâte sablée](./recettes/sucrees/pate_sablee.md)
   - [Tarte au citron menringuée](./recettes/sucrees/tarte_citron_meringuee.md)
