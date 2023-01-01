@@ -19,7 +19,7 @@
 - Faire reposer les coques dans un grand volume d'eau salée pendant minimum 1h. Les rincer abondamment à l'eau afin d'enlever les grains de sable
 - Faire cuire les linguines dans un grand volume d'eau salée
 - En parallèle, faire revenir l'ail et les échalotes finement coupés dans une grande poêle
-- Ajouter les coques et verser le vin blanc ainsi qu'un peu d'eau de cuisson des pates. Ajouter le persil et le piment à volonté
+- Ajouter les coques et verser le vin blanc ainsi qu'un peu d'eau de cuisson des pâtes. Ajouter le persil et le piment à volonté
 - Lorsque les coques sont ouvertes, les enlever et réserver
 - Lorsque les pâtes sont al dente, vider l'eau et les verser dans la poêle
 - Ajouter les coques aux pâtes avant de servir
