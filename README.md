@@ -13,11 +13,13 @@
   - [Levain](./recettes/salees/levain.md)
   - [Pain au levain](./recettes/salees/pain_au_levain.md)
   - [Pâte à pizza](./recettes/salees/pate_a_pizza.md)
+  - [Pâte brisée](./recettes/salees/pate_brisee.md)
   - [Poivrons marinés](./recettes/salees/poivrons_marines.md)
   - [Risotto aux champignons](./recettes/salees/risotto_champignons.md)
   - [Saumon chèvre-miel](./recettes/salees/saumon_chevre_miel.md)
   - [Soupe de chou fleur rôti](./recettes/salees/soupe_chou_fleur.md)
   - [Tarte à la tomate](./recettes/salees/tarte_tomate.md)
+  - [Tarte courgettes-feta](./recettes/salees/tarte_courgettes_feta.md)
 - Recettes sucrées
   - [Banoffee](./recettes/sucrees/banoffee.md)
   - [Cake à l'orange](./recettes/sucrees/cake_orange.md)
