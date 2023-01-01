@@ -19,7 +19,7 @@
 ### Recette
 
 - Eplucher et couper la courge en petits morceaux
-- Faire cuire les morceaux de courge à l'eau 5min
+- Faire cuire les morceaux de courge dans l'eau bouillante 5min
 - Hacher grossièrement la poitrine fumée, puis mélanger avec la courge dans un plat à gratin
 - Ajouter la crème, la muscade, les herbes hachées, les pignons de pin, le sel et le poivre et mélanger le tout
 - Recouvrir de parmesan
