@@ -8,6 +8,7 @@
   - [Croque-monsieur](./recettes/salees/croque_monsieur.md)
   - [Gratin dauphinois](./recettes/salees/gratin_dauphinois.md)
   - [Gratin quinoa courgette](./recettes/salees/gratin_quinoa_courgette.md)
+  - [Hachis parmentier](./recettes/salees/hachis_parmentier.md)
   - [Houmous](./recettes/salees/houmous.md)
   - [Lasagnes bolognaise](./recettes/salees/lasagnes_bolognaise.md)
   - [Lasagnes au saumon](./recettes/salees/lasagnes_saumon.md)
