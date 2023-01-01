@@ -16,7 +16,7 @@
 
 ### Recette
 
-- Dans un saladier, mélanger la farine, la levure, le sucre et 2 pincée de sel
+- Dans un saladier, mélanger la farine, la levure, le sucre et 2 pincées de sel
 - Creuser un puit et ajouter les oeufs et un peu de lait. Battre jusqu'à l'obtention d'une pâte homogène
 - Ajouter progressivement le reste du lait en continuant de battre
 - Laisser reposer minimum 1h
