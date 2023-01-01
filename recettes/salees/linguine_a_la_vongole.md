@@ -4,7 +4,7 @@
 
 ### Ingrédients
 
-- [ ] 1/2L coques
+- [ ] 0,5L coques
 - [ ] 200g linguine
 - [ ] 2 échalotes
 - [ ] 2 gousses d'ail
