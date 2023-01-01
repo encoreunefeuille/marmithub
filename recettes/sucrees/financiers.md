@@ -17,7 +17,7 @@
 
 - Faire fondre le beurre à feu vif jusqu'à ce qu'il dégage un parfum de noisette
 - Mélanger farine, sucre, poudres d'amandes et de noisettes
-- Y verser les blancs d'oeufs et bien mélanger
+- Verser les blancs d'oeufs et bien mélanger
 - Incorporer le beurre tiède et mélanger à la spatule jusqu'à l'obtention d'une pâte lisse
 - Four 10min à 180°C
 
