@@ -17,7 +17,7 @@
 ### Recette
 
 - Faire revenir les poireaux émincés dans un peu d'huile d'olive
-- Mélanger les oeufs, la crème, le lait, le sel et le poivre
+- Battre les oeufs, la crème, le lait, le sel et le poivre
 - Disposer la pâte dans un moule, parsemer de gruyère râpé, verser les poireaux au fond
 - Verser l'appareil dessus
 - Four 35min à 180°C
