@@ -17,11 +17,11 @@
 
 ### Recette
 
-- Dans un saladier, batter les oeufs avec le sucre, puis ajouter la crême et la cannelle. Possibilité d'ajouter un peu de lait pour rendre le mélange plus liquide
+- Dans un saladier, battre les oeufs avec le sucre, puis ajouter la crème et la cannelle. Ajouter éventuellement un peu de lait pour rendre le mélange plus liquide
 - Etaler et piquer la pâte dans un moule. Disposer les pommes, préalablement coupées en quartiers fins, en rosace
-- Verser l'appareil sur sur les pommes
-- Four 40min à 210°C (possibilité de couvrir avec du papier aluminium si les pommes noircissent)
-- Soupoudrer de sucre vanillé et remettre au four quelques minutes pour caraméliser
+- Verser l'appareil sur les pommes
+- Four 40min à 210°C. Couvrir éventuellement avec du papier aluminium si les pommes noircissent
+- Saupoudrer de sucre vanillé et remettre au four quelques minutes pour caraméliser
 
 ---
 
