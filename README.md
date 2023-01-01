@@ -45,6 +45,7 @@
   - [Granola](./recettes/sucrees/granola.md)
   - [Madeleines](./recettes/sucrees/madeleines.md)
   - [Marbré](./recettes/sucrees/marbre.md)
+  - [Moelleux aux châtaignes](./recettes/sucrees/moelleux_chataignes.md)
   - [Moelleux au chocolat](./recettes/sucrees/moelleux_chocolat.md)
   - [Muffins aux pépites de chocolat](./recettes/sucrees/muffins_chocolat.md)
   - [Pancakes](./recettes/sucrees/pancakes.md)
