@@ -5,7 +5,7 @@
 ### Ingrédients
 
 - [ ] 300g riz rond
-- [ ] 300g champignons(cèpes ou champignons de Paris)
+- [ ] 300g champignons (cèpes ou champignons de Paris)
 - [ ] 1 échalote
 - [ ] 1L bouillon de légumes
 - [ ] 12cl verre de vin (rouge ou blanc)
