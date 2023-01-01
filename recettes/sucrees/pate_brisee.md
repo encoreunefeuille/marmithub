@@ -15,7 +15,7 @@
 
 - Mélanger du bout des doigts le beurre coupé en petits morceaux avec la farine et une pincée de sel
 - Ajouter l'oeuf
-- Assembler la pate en boule
+- Assembler la pâte en boule
 
 ---
 
