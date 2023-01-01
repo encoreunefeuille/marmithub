@@ -15,7 +15,7 @@
 ### Recette
 
 - Couper les pommes de terre en tranches très fines et les laver à l'eau pour enlever l'amidon
-- Les disposer à l'horizontal dans un plat à gratin
+- Les disposer à l'horizontale dans un plat à gratin
 - Dans un saladier, mélanger la crème, le lait, sel et poivre
 - Verser l'appareil sur les pommes de terre
 - Four 1h à 180°C
