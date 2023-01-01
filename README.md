@@ -1,6 +1,7 @@
 # marmithub
 
 - Recettes salées
+  - [Bagels au saumon](./recettes/salees/bagels_saumon.md)
   - [Béchamel](./recettes/salees/bechamel.md)
   - [Blanquette de veau](./recettes/salees/blanquette.md)
   - [Blinis](./recettes/salees/blinis.md)
