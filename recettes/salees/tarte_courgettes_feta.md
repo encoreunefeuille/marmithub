@@ -4,7 +4,7 @@
 
 ### Ingrédients
 
-- [ ] 1 pâte brisée
+- [ ] 1 [pâte brisée](./pate_brisee.md)
 - [ ] 200g feta
 - [ ] 3 courgettes
 - [ ] 3 oeufs
