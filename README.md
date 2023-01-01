@@ -6,6 +6,7 @@
   - [Blanquette de veau](./recettes/salees/blanquette.md)
   - [Blinis](./recettes/salees/blinis.md)
   - [Croque-monsieur](./recettes/salees/croque_monsieur.md)
+  - [Gougères](./recettes/salees/gougeres.md)
   - [Gratin dauphinois](./recettes/salees/gratin_dauphinois.md)
   - [Gratin quinoa courgette](./recettes/salees/gratin_quinoa_courgette.md)
   - [Hachis parmentier](./recettes/salees/hachis_parmentier.md)
