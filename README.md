@@ -17,6 +17,7 @@
 - Recettes sucrées
   - [Banoffee](./recettes/sucrees/banoffee.md)
   - [Cake à l'orange](./recettes/sucrees/cake_orange.md)
+  - [Cannelés](./recettes/sucrees/canneles.md)
   - [Cookies vegan](./recettes/sucrees/cookies_vegan.md)
   - [Crème fouettée](./recettes/sucrees/creme_fouettee.md)
   - [Crêpes](./recettes/sucrees/crepes.md)
