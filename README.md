@@ -7,6 +7,7 @@
   - [Blinis](./recettes/salees/blinis.md)
   - [Croque-monsieur](./recettes/salees/croque_monsieur.md)
   - [Gratin dauphinois](./recettes/salees/gratin_dauphinois.md)
+  - [Gratin de courge butternut](./recettes/salees/gratin_courge_butternut.md)
   - [Gratin quinoa courgette](./recettes/salees/gratin_quinoa_courgette.md)
   - [Hachis parmentier](./recettes/salees/hachis_parmentier.md)
   - [Houmous](./recettes/salees/houmous.md)
