@@ -6,7 +6,7 @@
 
 - [ ] 1 [pâte brisée](./pate_brisee.md)
 - [ ] 3 oeufs
-- [ ] 20cl crême liquide
+- [ ] 20cl crème liquide
 - [ ] 3 ou 4 pommes types Boskoop
 - [ ] 3 c-a-s sucre
 - [ ] 1 pincée cannelle
