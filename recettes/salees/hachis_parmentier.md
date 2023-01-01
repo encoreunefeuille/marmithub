@@ -9,9 +9,9 @@
 - [ ] 1 carotte
 - [ ] 1 oignon
 - [ ] 1 échalote
-- [ ] emmental râpé
 - [ ] 1 c-a-s crème épaisse
 - [ ] 20cl lait
+- [ ] emmental râpé
 - [ ] muscade
 
 ---
