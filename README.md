@@ -23,6 +23,7 @@
   - [Saumon chèvre-miel](./recettes/salees/saumon_chevre_miel.md)
   - [Soupe de chou fleur rôti](./recettes/salees/soupe_chou_fleur.md)
   - [Tarte à la tomate](./recettes/salees/tarte_tomate.md)
+  - [Tarte aux poireaux](./recettes/salees/tarte_poireaux.md)
   - [Tarte courgettes-feta](./recettes/salees/tarte_courgettes_feta.md)
 - Recettes sucrées
   - [Banoffee](./recettes/sucrees/banoffee.md)
