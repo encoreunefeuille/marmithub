@@ -11,6 +11,7 @@
 - [ ] 70g emmental râpé
 - [ ] sel
 - [ ] poivre
+- [ ] huile d'olive
 
 ---
 
