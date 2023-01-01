@@ -18,7 +18,7 @@
 ### Recette
 
 - Préparer le bouillon et le maintenir frémissant
-- Dans une casserole, faire revenir les betteraves avec l'oignon, l'ail et un peu d'huile d'olive
+- Dans une casserole, faire revenir les betteraves préalablement coupées en dés avec l'oignon, l'ail haché et un peu d'huile d'olive
 - Ajouter le riz et mélanger jusqu'à ce qu'il devienne translucide
 - Ajouter le vin et mélanger pour décoller les sucs, jusqu'à complète absorption
 - Verser une louche de bouillon, attendre qu'il soit absorbé avant de verser les suivantes
