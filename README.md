@@ -13,6 +13,7 @@
   - [Lasagnes bolognaise](./recettes/salees/lasagnes_bolognaise.md)
   - [Lasagnes au saumon](./recettes/salees/lasagnes_saumon.md)
   - [Levain](./recettes/salees/levain.md)
+  - [Linguine a la vongole](./recettes/salees/linguine_a_la_vongole.md)
   - [Pain au levain](./recettes/salees/pain_au_levain.md)
   - [Pâte à pizza](./recettes/salees/pate_a_pizza.md)
   - [Pâte brisée](./recettes/salees/pate_brisee.md)
