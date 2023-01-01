@@ -4,7 +4,7 @@
 
 ### Ingrédients
 
-- [ ] 400g pâte (type penne)
+- [ ] 400g pâtes (type penne)
 - [ ] 100g cream cheese (type Philadelphia)
 - [ ] betteraves cuites
 - [ ] sel
