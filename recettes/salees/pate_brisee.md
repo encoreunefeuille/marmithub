@@ -6,7 +6,7 @@
 
 - [ ] 200g farine
 - [ ] 50g beurre
-- [ ] 10cl eau
+- [ ] 5cl eau
 - [ ] sel
 
 ---
