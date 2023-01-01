@@ -50,3 +50,4 @@
   - [Pâte sablée](./recettes/sucrees/pate_sablee.md)
   - [Tarte au citron meringuée](./recettes/sucrees/tarte_citron_meringuee.md)
   - [Tarte aux pommes](./recettes/sucrees/tarte_pommes.md)
+  - [Tarte tatin](./recettes/sucrees/tarte_tatin.md)
