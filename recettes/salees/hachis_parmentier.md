@@ -22,6 +22,7 @@
 - Dans une poêle, faire revenir l'oignon, l'échalote, la carotte coupée en petits morceaux pendant 2min. Puis ajouter la viande
 - Dans un plat à gratin, disposer la viande, puis la purée, puis le fromage râpé
 - Four 10min à 180°C
+
 ---
 
 25/08/2016
