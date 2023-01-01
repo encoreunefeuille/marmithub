@@ -14,7 +14,7 @@ for folder in ${FOLDERS[@]}; do
         file_path=${folder}${file}
         # echo "Checking file ${file_path}"
         if [[ ! "$(cat README.md | grep -c ${file_path})" -eq 1 ]]; then
-            echo "No links found for file ${file_path}" 
+            echo "No link found for file ${file_path}" 
             exit_code=1
         fi
     done
